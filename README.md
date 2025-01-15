@@ -1,5 +1,6 @@
 # 2D-Game
-Enhanced Collecting Game in Pygame
+Enhanced Collecting Game in Pygame.
+
 This is a simple 2D collecting game built using Python and the Pygame library. The player controls a red square, navigating the screen to collect items while avoiding enemies and grabbing power-ups. The game features increasing difficulty, a high score system, and power-ups to make gameplay more interesting.
 
 Features:
